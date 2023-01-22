@@ -7,7 +7,7 @@
 Projeto de um jogo feito no javascript por meio do site P5.js durante o curso da Alura. O jogo é no estilo "Frogger", e seu nome é "Freeway". Atravesse até o outro lado para ganhar pontos evitando os carros, se o carro te atingir, os pontos serão perdidos.
 ## Link do projeto
 
-encr.pw/Freeway-javascript-Gabriel-Leme
+encurtador.com.br/uzQX6
 
 ## Tabela de Conteúdos
 
