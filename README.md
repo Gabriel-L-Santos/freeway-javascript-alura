@@ -1,9 +1,12 @@
 # Freeway no Javascript
 ![](./imgs-gifs-readme/freeway-javascript.gif)
 
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
+
 Projeto de um jogo feito no javascript por meio do site P5.js durante o curso da Alura. O jogo é no estilo "Frogger", e seu nome é "Freeway". Atravesse até o outro lado para ganhar pontos evitando os carros, se o carro te atingir, os pontos serão perdidos.
 ## Link do projeto
-**https://editor.p5js.org/Gabriel_Leme/full/bCB9vyn5_**
+encr.pw/Freeway-javascript-Gabriel-Leme
 
 ## Tabela de Conteúdos
 
